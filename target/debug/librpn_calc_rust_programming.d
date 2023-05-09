@@ -1,1 +1,0 @@
-/Users/kimyuri/Desktop/untitled/book/rust-programming/ch04/section07/rpn_calc/target/debug/librpn_calc_rust_programming.rlib: /Users/kimyuri/Desktop/untitled/book/rust-programming/ch04/section07/rpn_calc/src/lib.rs
